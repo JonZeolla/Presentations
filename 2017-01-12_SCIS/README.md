@@ -15,6 +15,11 @@ I started putting these materials in my presentation but it became too many page
     * [scikit-learn](http://scikit-learn.org/stable/)
     * [NumPy](http://www.numpy.org/)
     * [SciPy](https://www.scipy.org/)
+    * [Dedupe](https://github.com/datamade/dedupe)
+    * [Fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy)
+    * [scrubadub](https://github.com/datascopeanalytics/scrubadub)
+    * [arrow](https://github.com/crsmithdev/arrow)
+    * [datacleaner](https://github.com/rhiever/datacleaner)
   * Development Environments
     * [Canopy](https://store.enthought.com/downloads/#default)
     * [Jupyter Notebooks](http://jupyter.org/)
