@@ -90,6 +90,8 @@ There are a ton of papers in this area so I'm only going to provide a few.
 * [Coursera](https://www.coursera.org/browse/data-science)
 * [Udemy](https://www.udemy.com/courses/search/?q=data science&src=sac&kw=data sci&lang=en)
 * [stackskills](https://stackskills.com/courses)
+* [MIT Big Data and Social Analytics Certificate Course](http://getsmarter.mit.edu/big-data-and-social-analytics-course/)
+* [Big Data Analysis with Apache Spark](https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x)
 
 #### Mailing Lists
 * [Security Metrics](http://www.securitymetrics.org/mailing-list.html)
@@ -100,4 +102,6 @@ There are a ton of papers in this area so I'm only going to provide a few.
 
 #### Miscellaneous
 * The Chrome Extension [NoCoffee](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl?hl=en-US) - key for for visualizations.
+* [MLSec](https://github.com/mlsecproject)
+* [Stratosphere IPS](https://stratosphereips.org/)
 
