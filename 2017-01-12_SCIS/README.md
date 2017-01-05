@@ -20,6 +20,7 @@ I started putting these materials in my presentation but it became too many page
     * [scrubadub](https://github.com/datascopeanalytics/scrubadub)
     * [arrow](https://github.com/crsmithdev/arrow)
     * [datacleaner](https://github.com/rhiever/datacleaner)
+    * [quandl](https://www.quandl.com/tools/python)
   * Development Environments
     * [Canopy](https://store.enthought.com/downloads/#default)
     * [Jupyter Notebooks](http://jupyter.org/)
@@ -27,6 +28,7 @@ I started putting these materials in my presentation but it became too many page
     * Did you know that you can include R in Python via [rpy2](http://rpy2.bitbucket.org/)?
     * Try out [this brief intro](https://www.stavros.io/tutorials/python/) if you're new to the language.
     * For those of you who love Python and Spark, check out [PySpark](http://spark.apache.org/docs/0.9.0/python-programming-guide.html).
+    * [TF Learn](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) (previously SkFlow) is a simplified interface for TensorFlow, to get people started on predictive analytics and data mining.
 * R
   * Development Environment
     * [RStudio](https://www.rstudio.com/) is *pretty much* your only option
@@ -37,18 +39,22 @@ I started putting these materials in my presentation but it became too many page
 * Apache Zeppelin
   * Zeppelin gets an honorable mention here.  It is a "A web-based notebook that enables interactive data analytics."  You really should [check it out](https://zeppelin.apache.org/).
 
-#### Training
+#### Training/Conferences
 Unfortunately, training in this area is severely lacking in availability, however here's a start.
 
-* Black Hat
+* [Black Hat](http://www.blackhat.com/upcoming.html) conference
   * Crash Course in Data Science for Hackers
   * Visual Analytics - Delivering Actionable Security Intelligence
+* [PyData](http://pydata.org/events.html) events
+* [useR!](https://www.r-project.org/conferences.html) conference
+* [Strata + Hadoop World](http://conferences.oreilly.com/strata) conference
 
 #### Podcasts
 * [Hadooponomics](http://bluehillresearch.com/hadooponomics/)
 * [Super Data Science](http://feeds.soundcloud.com/users/soundcloud:users:253585900/sounds.rss)
 * [Data Driven Security](http://datadrivensecurity.info/podcast/) (Potentially dead?)
 * [Talk Python To Me](https://talkpython.fm/)/[Python Bytes](https://pythonbytes.fm/)
+* [AI Review](https://itunes.apple.com/us/podcast/ai-review/id1142140410)
 
 #### RSS/ATOM Feeds
 * [Top Data News](https://topdata.news/feed/)
@@ -59,9 +65,18 @@ Unfortunately, training in this area is severely lacking in availability, howeve
 * [R-Bloggers](https://www.r-bloggers.com/feed/)
 * [StatsBlogs](http://feeds.feedburner.com/statsblogs)
 
-#### Presentations
+#### Presentations/Videos
 * [The Five Tribes of Machine Learning](https://www.youtube.com/watch?v=oxWruJZ-BbU)
 * [Hadoop Safari](https://2016.zeronights.ru/wp-content/uploads/2016/12/Wavestone-ZeroNights-2016-Hadoop-safari-Hunting-for-vulnerabilities-v1.0.pdf)
+* [Practical Machine Learning Tutorial with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+
+#### Papers
+There are a ton of papers in this area so I'm only going to provide a few.
+
+* [Scale-up vs Scale-out for Hadoop: Time to rethink?](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/a20-appuswamy.pdf)
+* Google [Dremel](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
+* Google [MapReduce](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
+* Google [BigTable](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 
 #### Books
 * [Data Driven Security](http://datadrivensecurity.info/book/)
