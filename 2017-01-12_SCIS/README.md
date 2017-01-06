@@ -5,6 +5,11 @@
 ### Related Materials
 I started putting these materials in my presentation but it became too many pages of links, so I moved it here.
 
+#### [Semi-]Recent News
+* "[Preparing for the future of Artificial Intelligence](https://www.whitehouse.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf)"
+* [AI XPRIZE Pittsburgh](https://www.eventbrite.com/e/xprize-pittsburgh-ai-hackathon-pitch-night-tickets-30452947586).  More details [here](http://ai.xprize.org/)
+* [Brains vs AI](http://www.cmu.edu/news/stories/archives/2017/january/poker-pros-vs-AI.html - 20-day contest at Rivers Casino in Pittsburgh beginning January 11th 2017.
+
 #### Programming
 * Java
   * If you want to do big data stuff, you really should know some Java.  It's very predominent.
@@ -21,6 +26,8 @@ I started putting these materials in my presentation but it became too many page
     * [arrow](https://github.com/crsmithdev/arrow)
     * [datacleaner](https://github.com/rhiever/datacleaner)
     * [quandl](https://www.quandl.com/tools/python)
+    * [emcee](http://dan.iel.fm/emcee/current/)
+    * [pyparsing](https://pypi.python.org/pypi/pyparsing/2.1.10) - it's not old, it's "seasoned."
   * Development Environments
     * [Canopy](https://store.enthought.com/downloads/#default)
     * [Jupyter Notebooks](http://jupyter.org/)
@@ -69,6 +76,7 @@ Unfortunately, training in this area is severely lacking in availability, howeve
 * [The Five Tribes of Machine Learning](https://www.youtube.com/watch?v=oxWruJZ-BbU)
 * [Hadoop Safari](https://2016.zeronights.ru/wp-content/uploads/2016/12/Wavestone-ZeroNights-2016-Hadoop-safari-Hunting-for-vulnerabilities-v1.0.pdf)
 * [Practical Machine Learning Tutorial with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+* [Advanced Security Analytics - BSides Vancouver 2015](https://www.youtube.com/watch?v=6SuTaEiYHtI)
 
 #### Papers
 There are a ton of papers in this area so I'm only going to provide a few.
@@ -99,6 +107,20 @@ There are a ton of papers in this area so I'm only going to provide a few.
 #### Aggregated Materials
 * [The Definitive Security Data Science and Machine Learning Guide](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
 * [Data Driven Security Resources](http://datadrivensecurity.info/blog/pages/resources.html)
+
+#### Enterprise tools
+* [HUNK](http://docs.splunk.com/Documentation/Hunk/6.4.5/Hunk/MeetHunk) with various Apps
+* [Prelert](http://info.prelert.com/) and the [Elastic Stack](https://www.elastic.co/webinars/introduction-elk-stack) (previously ELK)
+* ... so many more.  These were just top of mind/easily retrievable.
+
+#### Upstarts
+* [Apache Metron (incubating)](http://metron.incubator.apache.org/)
+* [Apache Spot (incubating)](http://spot.incubator.apache.org/)
+* [Panaseer](https://www.panaseer.com/)
+* [Niddel](http://www.niddel.com/)
+* [LogicHub](http://www.logichub.com/)
+* [BluVector](https://www.bluvectorcyber.com/)
+* ... so many more.  These were just top of mind/easily retrievable.
 
 #### Miscellaneous
 * The Chrome Extension [NoCoffee](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl?hl=en-US) - key for for visualizations.
