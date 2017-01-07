@@ -36,6 +36,7 @@ I started putting these materials in my presentation but it became too many page
     * Try out [this brief intro](https://www.stavros.io/tutorials/python/) if you're new to the language.
     * For those of you who love Python and Spark, check out [PySpark](http://spark.apache.org/docs/0.9.0/python-programming-guide.html).
     * [TF Learn](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) (previously SkFlow) is a simplified interface for TensorFlow, to get people started on predictive analytics and data mining.
+    * [CNTK](https://github.com/Microsoft/CNTK/wiki), a Microsoft competitor to tensorflow.
 * R
   * Development Environment
     * [RStudio](https://www.rstudio.com/) is *pretty much* your only option
@@ -55,6 +56,13 @@ Unfortunately, training in this area is severely lacking in availability, howeve
 * [PyData](http://pydata.org/events.html) events
 * [useR!](https://www.r-project.org/conferences.html) conference
 * [Strata + Hadoop World](http://conferences.oreilly.com/strata) conference
+
+#### Datasets
+* [Kaggle](https://www.kaggle.com/datasets)
+* [KDD99](https://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
+* [City of Pittsburgh](https://data.wprdc.org/organization/city-of-pittsburgh) data.  Check out [this page](http://wprdc.org/crime/) for some interesting analytics and visualizations.
+* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
+* GitHub's [Open Data Showcase](https://github.com/showcases/open-data)
 
 #### Podcasts
 * [Hadooponomics](http://bluehillresearch.com/hadooponomics/)
