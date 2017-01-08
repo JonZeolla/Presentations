@@ -14,6 +14,11 @@ I started putting these materials in my presentation but it became too many page
 * Java
   * If you want to do big data stuff, you really should know some Java.  It's very predominent.
   * There are **so** many tutorials available online for free, but just for fun, [here's one explicitly](http://docs.oracle.com/javase/tutorial/).
+* Scala
+  * Scala is similarly popular with big data software, especially because it is so tighly integrated with Java.
+    * Scala runs on the JVM. Java and Scala classes can be freely mixed, no matter whether they reside in different projects or in the same.
+    * Java libraries, frameworks and tools are all available. Build tools like ant or maven, IDEs like Eclipse, IntelliJ, or Netbeans, frameworks like Spring or Hibernate all work seamlessly with Scala.
+  * Here's a [tour](http://docs.scala-lang.org/tutorials/tour/tour-of-scala.html) of Scala.
 * Python
   * Packages
     * [pandas](http://pandas.pydata.org/)
@@ -89,6 +94,7 @@ Unfortunately, training in this area is severely lacking in availability, howeve
 * [Hadoop Safari](https://2016.zeronights.ru/wp-content/uploads/2016/12/Wavestone-ZeroNights-2016-Hadoop-safari-Hunting-for-vulnerabilities-v1.0.pdf)
 * [Practical Machine Learning Tutorial with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 * [Advanced Security Analytics - BSides Vancouver 2015](https://www.youtube.com/watch?v=6SuTaEiYHtI)
+* [Data Science or Data Pseudo-Science?](https://www.youtube.com/watch?v=1CQWJDfyQu0)
 
 #### Papers
 There are a ton of papers in this area so I'm only going to provide a few.
@@ -105,6 +111,11 @@ There are a ton of papers in this area so I'm only going to provide a few.
 * [Python for Data Analytics](http://shop.oreilly.com/product/0636920023784.do)
 * [R for Everyone: Advanced Analytics and Graphics](https://www.amazon.com/Everyone-Advanced-Analytics-Graphics-Addison-Wesley/dp/0321888030/ref=sr_1_1)
 * [Machine Learning Algorithms From Scratch With Python](https://machinelearningmastery.com/machine-learning-algorithms-from-scratch/)
+* [Big Data: Principles and best practices of scalable realtime data systems](https://www.amazon.com/dp/1617290343)
+
+#### Blogs/Articles
+* [A tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+* [Top 10 Data Mining Algorithms, Explained](http://www.kdnuggets.com/2015/05/top-10-data-mining-algorithms-explained.html)
 
 #### MOOCs
 * [Coursera](https://www.coursera.org/browse/data-science)
@@ -122,7 +133,9 @@ There are a ton of papers in this area so I'm only going to provide a few.
 
 #### Enterprise tools
 * [HUNK](http://docs.splunk.com/Documentation/Hunk/6.4.5/Hunk/MeetHunk) with various Apps
+* [Splunk](https://www.splunk.com/) with the [ML Toolkit](http://docs.splunk.com/Documentation/MLApp)
 * [Prelert](http://info.prelert.com/) and the [Elastic Stack](https://www.elastic.co/webinars/introduction-elk-stack) (previously ELK)
+  * Prelert used to have a [Splunk app](http://info.prelert.com/products/anomaly-detective-app) which I heard was good, but it was EOL once they got acquired by Elastic.
 * ... so many more.  These were just top of mind/easily retrievable.
 
 #### Upstarts
@@ -138,5 +151,6 @@ There are a ton of papers in this area so I'm only going to provide a few.
 * The Chrome Extension [NoCoffee](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl?hl=en-US) - key for for visualizations.
 * [MLSec](https://github.com/mlsecproject)
 * [Stratosphere IPS](https://stratosphereips.org/)
-* Some people to follow: [Ken Westin](https://twitter.com/kwestin) ([website](http://www.cybersecurity.io/)), [Casey Stella](https://twitter.com/casey_stella) ([website](http://www.caseystella.com/)), [Rocky DeStefano](https://twitter.com/rockyd), [Alex Pinto](https://twitter.com/alexcpsec), [Bob Rudis](https://twitter.com/hrbrmstr), [Jay Jacobs](https://twitter.com/jayjacobs), [Raffael Marty](https://twitter.com/raffaelmarty) ([website](http://raffy.ch/)), [Davi Ottenheimer](https://twitter.com/daviottenheimer) ([website](http://www.flyingpenguin.com/)), and more people I definitely forgot.
+* Some people to follow: [Ken Westin](https://twitter.com/kwestin) ([website](http://www.cybersecurity.io/)), [Casey Stella](https://twitter.com/casey_stella) ([website](http://www.caseystella.com/)), [Rocky DeStefano](https://twitter.com/rockyd), [Alex Pinto](https://twitter.com/alexcpsec), [Bob Rudis](https://twitter.com/hrbrmstr), [Jay Jacobs](https://twitter.com/jayjacobs), [Raffael Marty](https://twitter.com/raffaelmarty) ([website](http://raffy.ch/)), [Davi Ottenheimer](https://twitter.com/daviottenheimer) ([website](http://www.flyingpenguin.com/)), [Nathan Marz](https://twitter.com/nathanmarz), and more people I definitely forgot.
+* [OpenAI](https://openai.com/about/) which is a non-profit artificial intelligence research company. Our mission is to build safe AI, and ensure AI's benefits are as widely and evenly distributed as possible.  Invested in by Elon Musk, Peter Thiel, and others including Microsoft, AWS, YCR (Y Combinator).
 
