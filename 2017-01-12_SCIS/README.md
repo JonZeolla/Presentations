@@ -28,6 +28,8 @@ I started putting these materials in my presentation but it became too many page
     * [quandl](https://www.quandl.com/tools/python)
     * [emcee](http://dan.iel.fm/emcee/current/)
     * [pyparsing](https://pypi.python.org/pypi/pyparsing/2.1.10) - it's not old, it's "seasoned."
+    * [Cython](https://github.com/cython/cython)
+    * Some more "[Awesome Python Packages](https://github.com/vinta/awesome-python/blob/master/README.md)"
   * Development Environments
     * [Canopy](https://store.enthought.com/downloads/#default)
     * [Jupyter Notebooks](http://jupyter.org/)
@@ -56,6 +58,8 @@ Unfortunately, training in this area is severely lacking in availability, howeve
 * [PyData](http://pydata.org/events.html) events
 * [useR!](https://www.r-project.org/conferences.html) conference
 * [Strata + Hadoop World](http://conferences.oreilly.com/strata) conference
+* [BSidesLV Ground Truth track](https://www.youtube.com/channel/UCpNGmljppAJbTIA5Msms1Pw/videos) (Look for "GT -")
+* Here's a [related podcast episode](http://datadrivensecurity.info/podcast/data-driven-security-episode-25.html)
 
 #### Datasets
 * [Kaggle](https://www.kaggle.com/datasets)
