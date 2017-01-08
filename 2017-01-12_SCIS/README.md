@@ -8,7 +8,7 @@ I started putting these materials in my presentation but it became too many page
 #### [Semi-]Recent News
 * "[Preparing for the future of Artificial Intelligence](https://www.whitehouse.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf)"
 * [AI XPRIZE Pittsburgh](https://www.eventbrite.com/e/xprize-pittsburgh-ai-hackathon-pitch-night-tickets-30452947586).  More details [here](http://ai.xprize.org/)
-* [Brains vs AI](http://www.cmu.edu/news/stories/archives/2017/january/poker-pros-vs-AI.html - 20-day contest at Rivers Casino in Pittsburgh beginning January 11th 2017.
+* [Brains vs AI](http://www.cmu.edu/news/stories/archives/2017/january/poker-pros-vs-AI.html) - 20-day contest at Rivers Casino in Pittsburgh beginning January 11th 2017.
 
 #### Programming
 * Java
