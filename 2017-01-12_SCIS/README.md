@@ -47,7 +47,7 @@ I started putting these materials in my presentation but it became too many page
     * Try out [this brief intro](https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf) if you're new to the language.
     * For those of you who love R and Spark, check out [SparkR](http://spark.apache.org/docs/latest/sparkr.html).
 * Apache Zeppelin
-  * Zeppelin gets an honorable mention here.  It is a "A web-based notebook that enables interactive data analytics."  You really should [check it out](https://zeppelin.apache.org/).
+  * Zeppelin gets an honorable mention here even though it isn't a programming language.  It is a "A web-based notebook that enables interactive data analytics."  You really should [check it out](https://zeppelin.apache.org/).
 
 #### Training/Conferences
 Unfortunately, training in this area is severely lacking in availability, however here's a start.
@@ -138,4 +138,5 @@ There are a ton of papers in this area so I'm only going to provide a few.
 * The Chrome Extension [NoCoffee](https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl?hl=en-US) - key for for visualizations.
 * [MLSec](https://github.com/mlsecproject)
 * [Stratosphere IPS](https://stratosphereips.org/)
+* Some people to follow: [Ken Westin](https://twitter.com/kwestin) ([website](http://www.cybersecurity.io/)), [Casey Stella](https://twitter.com/casey_stella) ([website](http://www.caseystella.com/)), [Rocky DeStefano](https://twitter.com/rockyd), [Alex Pinto](https://twitter.com/alexcpsec), [Bob Rudis](https://twitter.com/hrbrmstr), [Jay Jacobs](https://twitter.com/jayjacobs), [Raffael Marty](https://twitter.com/raffaelmarty) ([website](http://raffy.ch/)), [Davi Ottenheimer](https://twitter.com/daviottenheimer) ([website](http://www.flyingpenguin.com/)), and more people I definitely forgot.
 
