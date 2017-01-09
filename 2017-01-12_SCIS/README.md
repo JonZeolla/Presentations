@@ -49,7 +49,7 @@ I started putting these materials in my presentation but it became too many page
     * [RStudio](https://www.rstudio.com/) is *pretty much* your only option
   * Other
     * Did you know that you can include Python in R via [rJython](https://cran.r-project.org/web/packages/rJython/index.html)?
-    * Try out [this brief intro](https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf) if you're new to the language.  Also, a lot of the [MOOCs](#MOOCs) cover R really well, especially [this class](https://www.coursera.org/learn/r-programming) which focuses on teasing out the nuances of the language and assumes you already know how to code.
+    * Try out [this brief intro](https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf) if you're new to the language.  Also, a lot of the [MOOCs](#moocs) cover R really well, especially [this class](https://www.coursera.org/learn/r-programming) which focuses on teasing out the nuances of the language and assumes you already know how to code.
     * For those of you who love R and Spark, check out [SparkR](http://spark.apache.org/docs/latest/sparkr.html).
 * Apache Zeppelin
   * Zeppelin gets an honorable mention here even though it isn't a programming language.  It is a "A web-based notebook that enables interactive data analytics."  You really should [check it out](https://zeppelin.apache.org/).
