@@ -130,6 +130,7 @@ There are a ton of papers in this area so I'm only going to provide a few.
 #### Aggregated Materials
 * [The Definitive Security Data Science and Machine Learning Guide](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
 * [Data Driven Security Resources](http://datadrivensecurity.info/blog/pages/resources.html)
+* [Big Data Ecosystem](https://github.com/zenkay/bigdata-ecosystem)
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)
 * [Awesome Hadoop](https://github.com/youngwookim/awesome-hadoop)
@@ -159,4 +160,5 @@ There are a ton of papers in this area so I'm only going to provide a few.
 * Some people to follow: [Ken Westin](https://twitter.com/kwestin) ([website](http://www.cybersecurity.io/)), [Casey Stella](https://twitter.com/casey_stella) ([website](http://www.caseystella.com/)), [Rocky DeStefano](https://twitter.com/rockyd), [Alex Pinto](https://twitter.com/alexcpsec), [Bob Rudis](https://twitter.com/hrbrmstr), [Jay Jacobs](https://twitter.com/jayjacobs), [Raffael Marty](https://twitter.com/raffaelmarty) ([website](http://raffy.ch/)), [Davi Ottenheimer](https://twitter.com/daviottenheimer) ([website](http://www.flyingpenguin.com/)), [Nathan Marz](https://twitter.com/nathanmarz), and more people I definitely forgot.
 * [OpenAI](https://openai.com/about/) which is a non-profit artificial intelligence research company. Our mission is to build safe AI, and ensure AI's benefits are as widely and evenly distributed as possible.  Invested in by Elon Musk, Peter Thiel, and others including Microsoft, AWS, YCR (Y Combinator).
 * [Data Science Ontology](http://collaboratescience.com/WDS/)
+* [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
 
