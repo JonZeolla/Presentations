@@ -49,7 +49,7 @@ I started putting these materials in my presentation but it became too many page
     * [RStudio](https://www.rstudio.com/) is *pretty much* your only option
   * Other
     * Did you know that you can include Python in R via [rJython](https://cran.r-project.org/web/packages/rJython/index.html)?
-    * Try out [this brief intro](https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf) if you're new to the language.
+    * Try out [this brief intro](https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf) if you're new to the language.  Also, a lot of the [MOOCs](#MOOCs) cover R really well, especially [this class](https://www.coursera.org/learn/r-programming) which focuses on teasing out the nuances of the language and assumes you already know how to code.
     * For those of you who love R and Spark, check out [SparkR](http://spark.apache.org/docs/latest/sparkr.html).
 * Apache Zeppelin
   * Zeppelin gets an honorable mention here even though it isn't a programming language.  It is a "A web-based notebook that enables interactive data analytics."  You really should [check it out](https://zeppelin.apache.org/).
@@ -130,6 +130,11 @@ There are a ton of papers in this area so I'm only going to provide a few.
 #### Aggregated Materials
 * [The Definitive Security Data Science and Machine Learning Guide](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
 * [Data Driven Security Resources](http://datadrivensecurity.info/blog/pages/resources.html)
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)
+* [Awesome Hadoop](https://github.com/youngwookim/awesome-hadoop)
+* [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
+* Or many of the other [awesome lists](https://github.com/sindresorhus/awesome)
 
 #### Enterprise tools
 * [HUNK](http://docs.splunk.com/Documentation/Hunk/6.4.5/Hunk/MeetHunk) with various Apps
@@ -153,4 +158,5 @@ There are a ton of papers in this area so I'm only going to provide a few.
 * [Stratosphere IPS](https://stratosphereips.org/)
 * Some people to follow: [Ken Westin](https://twitter.com/kwestin) ([website](http://www.cybersecurity.io/)), [Casey Stella](https://twitter.com/casey_stella) ([website](http://www.caseystella.com/)), [Rocky DeStefano](https://twitter.com/rockyd), [Alex Pinto](https://twitter.com/alexcpsec), [Bob Rudis](https://twitter.com/hrbrmstr), [Jay Jacobs](https://twitter.com/jayjacobs), [Raffael Marty](https://twitter.com/raffaelmarty) ([website](http://raffy.ch/)), [Davi Ottenheimer](https://twitter.com/daviottenheimer) ([website](http://www.flyingpenguin.com/)), [Nathan Marz](https://twitter.com/nathanmarz), and more people I definitely forgot.
 * [OpenAI](https://openai.com/about/) which is a non-profit artificial intelligence research company. Our mission is to build safe AI, and ensure AI's benefits are as widely and evenly distributed as possible.  Invested in by Elon Musk, Peter Thiel, and others including Microsoft, AWS, YCR (Y Combinator).
+* [Data Science Ontology](http://collaboratescience.com/WDS/)
 
