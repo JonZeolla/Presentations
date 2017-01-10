@@ -44,6 +44,7 @@ I started putting these materials in my presentation but it became too many page
     * [scikit-learn](http://scikit-learn.org/stable/)
     * [NumPy](http://www.numpy.org/)
     * [SciPy](https://www.scipy.org/)
+    * [PyBRAIN](http://pybrain.org/)
     * [Dedupe](https://github.com/datamade/dedupe)
     * [Fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy)
     * [scrubadub](https://github.com/datascopeanalytics/scrubadub)
@@ -53,6 +54,7 @@ I started putting these materials in my presentation but it became too many page
     * [emcee](http://dan.iel.fm/emcee/current/)
     * [pyparsing](https://pypi.python.org/pypi/pyparsing/2.1.10) - it's not old, it's "seasoned."
     * [Cython](https://github.com/cython/cython)
+    * [Pylearn2](http://deeplearning.net/software/pylearn2/) - "This project does not have any current developer. We will continue to review pull requests and merge them when appropriate, but do not expect new development unless someone decides to work on it."
     * Some more "[Awesome Python Packages](https://github.com/vinta/awesome-python/blob/master/README.md)"
   * Development Environments
     * [Canopy](https://store.enthought.com/downloads/#default)
