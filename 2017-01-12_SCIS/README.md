@@ -5,6 +5,25 @@
 ### Related Materials
 I started putting these materials in my presentation but it became too many pages of links, so I moved it here.
 
+#### Table of Contents
+- [Semi-Recent News](#semi-recent-news)
+- [Programming](#programming)
+- [Training/Conferences](#trainingconferences)
+- [Datasets](#datasets)
+- [Podcasts](#podcasts)
+- [RSS/ATOM Feeds](#rssatom-feeds)
+- [Presentations/Videos](#presentationsvideos)
+- [Papers](#papers)
+- [Books](#books)
+- [Blogs/Articles](#blogsarticles)
+- [MOOCs](#moocs)
+- [Mailing Lists](#mailing-lists)
+- [Aggregated Materials](#aggregated-materials)
+- [Enterprise tools](#enterprise-tools)
+- [Upstarts](#upstarts)
+- [Miscellaneous](#miscellaneous)
+
+
 #### [Semi-]Recent News
 * "[Preparing for the future of Artificial Intelligence](https://www.whitehouse.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf)"
 * [AI XPRIZE Pittsburgh](https://www.eventbrite.com/e/xprize-pittsburgh-ai-hackathon-pitch-night-tickets-30452947586).  More details [here](http://ai.xprize.org/)
