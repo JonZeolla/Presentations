@@ -116,6 +116,7 @@ Unfortunately, training in this area is severely lacking in availability, howeve
 * [Practical Machine Learning Tutorial with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 * [Advanced Security Analytics - BSides Vancouver 2015](https://www.youtube.com/watch?v=6SuTaEiYHtI)
 * [Data Science or Data Pseudo-Science?](https://www.youtube.com/watch?v=1CQWJDfyQu0)
+* [Six Degrees of Domain Admin](https://www.youtube.com/watch?v=lxd2rerVsLo)
 
 #### Papers
 There are a ton of papers in this area so I'm only going to provide a few.
