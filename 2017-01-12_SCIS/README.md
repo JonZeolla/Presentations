@@ -111,8 +111,8 @@ Unfortunately, training in this area is severely lacking in availability, howeve
 * [StatsBlogs](http://feeds.feedburner.com/statsblogs)
 
 #### Presentations/Videos
+* [Hadoop Safari: Hunting for Vulnerabilities](https://www.youtube.com/watch?v=4jeZm3BI2SE) ([Slides](https://2016.zeronights.ru/wp-content/uploads/2016/12/Wavestone-ZeroNights-2016-Hadoop-safari-Hunting-for-vulnerabilities-v1.0.pdf))
 * [The Five Tribes of Machine Learning](https://www.youtube.com/watch?v=oxWruJZ-BbU)
-* [Hadoop Safari](https://2016.zeronights.ru/wp-content/uploads/2016/12/Wavestone-ZeroNights-2016-Hadoop-safari-Hunting-for-vulnerabilities-v1.0.pdf)
 * [Practical Machine Learning Tutorial with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 * [Advanced Security Analytics - BSides Vancouver 2015](https://www.youtube.com/watch?v=6SuTaEiYHtI)
 * [Data Science or Data Pseudo-Science?](https://www.youtube.com/watch?v=1CQWJDfyQu0)
