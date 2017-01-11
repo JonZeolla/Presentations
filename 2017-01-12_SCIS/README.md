@@ -126,6 +126,8 @@ There are a ton of papers in this area so I'm only going to provide a few.
 * Google [BigTable](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
 
 #### Books
+* [Hadoop Concepts](https://jiaminglin.gitbooks.io/hadoopconceptsnote/content/index.html)
+* [Hadoop and Kerberos: The madness beyond the gate](http://people.apache.org/~stevel/kerberos/kerberos_the_madness.pdf)
 * [Data Driven Security](http://datadrivensecurity.info/book/)
 * [Hadoop Operations](http://shop.oreilly.com/product/0636920038993.do)
 * [Applied Security Visualization](https://www.amazon.com/gp/product/B001FBFH3I/ref=oh_aui_d_detailpage_o09_?ie=UTF8&psc=1)
