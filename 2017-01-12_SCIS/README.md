@@ -5,6 +5,8 @@
 ### Related Materials
 I started putting these materials in my presentation but it became too many pages of links, so I moved it here.
 
+I tried to follow the semi-standard of [awesome lists](https://github.com/sindresorhus/awesome), just focused on materials that relate to the content of my talk.
+
 #### Table of Contents
 - [Semi-Recent News](#semi-recent-news)
 - [Programming](#programming)
