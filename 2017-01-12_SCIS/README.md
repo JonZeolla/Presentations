@@ -104,6 +104,9 @@ Unfortunately, training in this area is severely lacking in availability, howeve
 * [Data Driven Security](http://datadrivensecurity.info/podcast/) (Potentially dead?)
 * [Talk Python To Me](https://talkpython.fm/)/[Python Bytes](https://pythonbytes.fm/)
 * [AI Review](https://itunes.apple.com/us/podcast/ai-review/id1142140410)
+* [Linear Digressions](http://lineardigressions.com/)
+* [Data Science at Home](https://itunes.apple.com/us/podcast/data-science-at-home/id1069871378?mt=2)
+* [Data Skeptic](https://dataskeptic.com/)
 
 #### RSS/ATOM Feeds
 * [Top Data News](https://topdata.news/feed/)
@@ -138,9 +141,13 @@ There are a ton of papers in this area so I'm only going to provide a few.
 * [Hadoop Operations](http://shop.oreilly.com/product/0636920038993.do)
 * [Applied Security Visualization](https://www.amazon.com/gp/product/B001FBFH3I/ref=oh_aui_d_detailpage_o09_?ie=UTF8&psc=1)
 * [Python for Data Analytics](http://shop.oreilly.com/product/0636920023784.do)
+* [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130)
 * [R for Everyone: Advanced Analytics and Graphics](https://www.amazon.com/Everyone-Advanced-Analytics-Graphics-Addison-Wesley/dp/0321888030/ref=sr_1_1)
 * [Machine Learning Algorithms From Scratch With Python](https://machinelearningmastery.com/machine-learning-algorithms-from-scratch/)
 * [Big Data: Principles and best practices of scalable realtime data systems](https://www.amazon.com/dp/1617290343)
+* [An Introduction to Statistical Learning](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370)
+* [Data Science from Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)
+* [A Mathematical Course for Political and Social Research](https://www.amazon.com/Mathematics-Course-Political-Social-Research-ebook/dp/B00DLQNTC6/ref=mt_kindle?_encoding=UTF8&me=)
 
 #### Blogs/Articles
 * [A tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
