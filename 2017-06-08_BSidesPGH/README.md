@@ -28,7 +28,7 @@ I tried to follow the semi-standard of [awesome lists](https://github.com/sindre
 #### [Semi-]Recent News
 * "[Preparing for the future of Artificial Intelligence](https://www.whitehouse.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf)"
 * [AI XPRIZE Pittsburgh](https://www.eventbrite.com/e/xprize-pittsburgh-ai-hackathon-pitch-night-tickets-30452947586).  More details [here](http://ai.xprize.org/)
-* [Brains vs AI](http://www.cmu.edu/news/stories/archives/2017/january/poker-pros-vs-AI.html) - 20-day contest at Rivers Casino in Pittsburgh beginning January 11th 2017.
+* [Brains vs AI](http://www.cmu.edu/news/stories/archives/2017/january/poker-pros-vs-AI.html)
 
 #### Programming
 * Java
@@ -83,11 +83,12 @@ I tried to follow the semi-standard of [awesome lists](https://github.com/sindre
   * Visual Analytics - Delivering Actionable Security Intelligence
 * [PyData](http://pydata.org/events.html) events
 * [useR!](https://www.r-project.org/conferences.html) conference
-* [Open Data Science Conference](https://www.odsc.com/) conference
+* [Open Data Science Conference](https://www.odsc.com/)
 * [Strata + Hadoop World](http://conferences.oreilly.com/strata) conference
 * [BSidesLV Ground Truth track](https://www.youtube.com/channel/UCpNGmljppAJbTIA5Msms1Pw/videos) (Look for "GT -")
 * [Anacondacon](https://anacondacon17.io/) conference
-* [MIT Professional Classes](http://professional.mit.edu/programs/short-programs/data-modeling) training
+* [MIT Professional Classes](http://professional.mit.edu/programs/short-programs/data-modeling)
+* [O'Reilly Artificial Intelligence Conference](https://conferences.oreilly.com/artificial-intelligence) 
 * Here's a [related podcast episode](http://datadrivensecurity.info/podcast/data-driven-security-episode-25.html)
 
 #### Datasets
