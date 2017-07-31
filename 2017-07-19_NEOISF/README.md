@@ -89,11 +89,11 @@ I tried to follow the semi-standard of [awesome lists](https://github.com/sindre
 * [Open Data Science Conference](https://www.odsc.com/)
 * [Strata + Hadoop World](http://conferences.oreilly.com/strata) conference
 * [BSidesLV Ground Truth track](https://www.youtube.com/channel/UCpNGmljppAJbTIA5Msms1Pw/videos) (Look for "GT -")
-    * [2017 Ground Truth talks](https://bsideslv2017.sched.com/overview/type/Ground+Truth)
+    * [2017 Ground Truth talks](https://bsideslv2017.sched.com/overview/type/Ground+Truth) ([Day 1 Recordings](https://www.youtube.com/watch?v=I50i7COrk7A), [Day 2 Recordings](https://www.youtube.com/watch?v=pMRQf6S0R94))
 * [Anacondacon](https://anacondacon17.io/) conference
 * [MIT Professional Classes](http://professional.mit.edu/programs/short-programs/data-modeling)
 * [O'Reilly Artificial Intelligence Conference](https://conferences.oreilly.com/artificial-intelligence) 
-* Here's a [related podcast episode](http://datadrivensecurity.info/podcast/data-driven-security-episode-25.html)
+* Here are two [related](http://datadrivensecurity.info/podcast/data-driven-security-episode-25.html) [episodes](http://adversariallearning.libsyn.com/podcast/episode-11-data-conferences) from podcasts that I listen to.
 
 #### Datasets
 * [Kaggle](https://www.kaggle.com/datasets)
