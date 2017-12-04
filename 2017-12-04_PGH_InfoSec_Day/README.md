@@ -15,7 +15,7 @@ I tried to follow the semi-standard of [awesome lists](https://github.com/sindre
 - [Presentations/Videos](#presentationsvideos)
 - [Papers](#papers)
 - [Books](#books)
-- [Blogs/Articles](#blogsarticles)
+- [Blogs/Articles/Individual Podcasts](#blogsarticlesindividual-podcasts)
 - [MOOCs](#moocs)
 - [Mailing Lists](#mailing-lists)
 - [Aggregated Materials](#aggregated-materials)
@@ -80,6 +80,7 @@ I tried to follow the semi-standard of [awesome lists](https://github.com/sindre
 * [MIT Professional Classes](http://professional.mit.edu/programs/short-programs/data-modeling)
 * [O'Reilly Artificial Intelligence Conference](https://conferences.oreilly.com/artificial-intelligence) 
 * [CAMLIS](https://www.camlis.org)
+* [Fast.ai](http://www.fast.ai/)
 * Here are two [related](http://datadrivensecurity.info/podcast/data-driven-security-episode-25.html) [episodes](http://adversariallearning.libsyn.com/podcast/episode-11-data-conferences) from podcasts that I listen to.
 
 #### Datasets
@@ -147,7 +148,7 @@ There are a ton of papers in this area so I'm only going to provide a few.
 * [Data Science from Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)
 * [A Mathematical Course for Political and Social Research](https://www.amazon.com/Mathematics-Course-Political-Social-Research-ebook/dp/B00DLQNTC6/ref=mt_kindle?_encoding=UTF8&me=)
 
-#### Blogs/Articles
+#### Blogs/Articles/Individual Podcasts
 * [Can AI be taught to explain itself?](https://www.nytimes.com/2017/11/21/magazine/can-ai-be-taught-to-explain-itself.html)
 * [How to Spot a Machine Learning Opportunity, Even If You Aren’t a Data Scientist](https://hbr.org/2017/10/how-to-spot-a-machine-learning-opportunity-even-if-you-arent-a-data-scientist)
 * [A tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
@@ -156,6 +157,7 @@ There are a ton of papers in this area so I'm only going to provide a few.
 * [Why Your Security Data Lake Project Will FAIL!](http://blogs.gartner.com/anton-chuvakin/2017/04/11/why-your-security-data-lake-project-will-fail/)
 * [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html)
 * [The future of deep learning](https://blog.keras.io/the-future-of-deep-learning.html)
+* [Exploring Black Box Predictions](http://pca.st/QPSn) (Explainability and interpretability)
 
 #### MOOCs
 * [Coursera](https://www.coursera.org/browse/data-science)
@@ -177,6 +179,7 @@ There are a ton of papers in this area so I'm only going to provide a few.
 * [Awesome Hadoop](https://github.com/youngwookim/awesome-hadoop)
 * [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
 * [Awesome AI Security](https://github.com/RandomAdversary/Awesome-AI-Security)
+* [Good guided tour of ML in application (STA-663-2017)](http://people.duke.edu/~ccc14/sta-663-2017/)
 * Or many of the other [awesome lists](https://github.com/sindresorhus/awesome)
 
 #### Enterprise tools
@@ -205,5 +208,6 @@ There are a ton of papers in this area so I'm only going to provide a few.
 * [OpenAI](https://openai.com/about/) which is a non-profit artificial intelligence research company. Our mission is to build safe AI, and ensure AI's benefits are as widely and evenly distributed as possible.  Invested in by Elon Musk, Peter Thiel, and others including Microsoft, AWS, YCR (Y Combinator).
 * [Data Science Ontology](http://collaboratescience.com/WDS/)
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
+* [Audio Explorer](http://doc.gold.ac.uk/~lfedd001/three/demo.html)
 * [Risky Business #468](https://risky.biz/RB467/) covers machine learning explainability at a high level at the end.
 
